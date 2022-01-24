@@ -1,7 +1,7 @@
 CITYBUNZ
 
 Mission Statement: 
-travel dating service to those with busy schedules.
+travel dating service for those with busy schedules.
 
 Vision Statement: 
 Keeping life simple and fun 
